@@ -14,3 +14,4 @@ npm run serve
 ```
 npm run build
 ```
+![alt text](https://raw.githubusercontent.com/earthshakira/fuzzy-eureka/master/game-of-life-vue/screenshots/screenshot.png)
